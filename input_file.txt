@@ -1,0 +1,3 @@
+Sanjana is good girl.
+Amazon Nova Micro, a text-only model that delivers the lowest latency responses at very low costs
+Amazon Nova Lite, a very low-cost multimodal model that quickly processes image, video, and text inputs
